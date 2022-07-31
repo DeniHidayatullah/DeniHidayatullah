@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Deni!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Currently working with Freelance Full Stack, but I love learn new thing in programming such as HTML, CSS,Javascript,PHP, Golang. 
 
 ### Tools:
 <p>
