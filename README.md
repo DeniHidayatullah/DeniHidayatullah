@@ -10,7 +10,7 @@ Currently working with Freelance Full Stack, but I love learn new thing in progr
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently Working as Freelance FullStack Developer. </br>
-    - 🌱 I’m currently learning HTML, CSS, PHP, Javascript, and Going to learning Golang. </br>
+    - 🌱 I’m currently learning HTML, CSS, PHP, Javascript,CodeIgniter, Laravel and Going to learning Golang. </br>
     - 👯 💬 Ask me about my project by my email [denih1360@gmail.com] </br>
 </details>
 <p>
