@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Deni!
-Currently working with Freelance Full Stack, but I love learn new thing in programming such as HTML, CSS,Javascript,PHP, Golang. 
+Currently working with Full Stack Developer, but I love learn new thing in programming such as HTML, CSS,Javascript,PHP, Golang. 
 
 ### Tools:
 <p>
